@@ -8,3 +8,35 @@
     font-family: 'Playfair Display', serif;
     font-weight: 700;
 }
+
+.bg-blue {
+    background-color: #0655ef;
+}
+
+.white {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.p-20 {
+    padding: 20px 0;
+}
+
+.f-17 {
+    font-size: 17px;
+}
+
+.img-header {
+    width: 90%;
+    float: right;
+}
+
+@media (max-width: 768px) {
+
+    .img-header {
+        float: none;
+    }
+}
