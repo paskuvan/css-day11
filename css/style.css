@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Playfair+Display:wght@700&display=swap');
+
+.fr {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.fb {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
