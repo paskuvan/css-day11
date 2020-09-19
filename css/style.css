@@ -20,6 +20,10 @@ body {
     color: black;
 }
 
+.gray {
+    color: #515151;
+}
+
 .bg-green {
     background-color: #5bbc2e;
 }
@@ -32,8 +36,20 @@ body {
     color: white !important;
 }
 
-.p-60 {
+.icon {
+    margin-top: 15px;
+}
+
+.p-10 {
+    padding: 10vh 0 0 0;
+}
+
+.p-32 {
     padding: 32vh 0 0 0;
+}
+
+.f-14 {
+    font-size: 14px;
 }
 
 .f-90 {
