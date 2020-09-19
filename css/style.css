@@ -12,8 +12,16 @@ body {
     font-weight: 700;
 }
 
-.bg-blue {
-    background-color: #0655ef;
+.green {
+    color: #5bbc2e;
+}
+
+.black {
+    color: black;
+}
+
+.bg-green {
+    background-color: #5bbc2e;
 }
 
 .white {
@@ -24,12 +32,16 @@ body {
     color: white !important;
 }
 
-.p-20 {
-    padding: 20px 0;
+.p-60 {
+    padding: 32vh 0 0 0;
 }
 
-.f-17 {
-    font-size: 17px;
+.f-90 {
+    font-size: 90px;
+}
+
+.f-25 {
+    font-size: 25px;
 }
 
 .img-header {
