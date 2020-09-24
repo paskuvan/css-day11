@@ -56,6 +56,14 @@ body {
     padding: 32vh 0 0 0;
 }
 
+.p-30 {
+    padding: 0px 0 30px 0;
+}
+
+.p-31 {
+    padding: 30px 0 0 0;
+}
+
 .p-50 {
     padding: 50px 0;
 }
@@ -93,5 +101,22 @@ body {
 
     .img-header {
         float: none;
+    }
+
+    .f-90 {
+        font-size: 20px; 
+    }
+
+    .f-33 {
+        font-size: 20px; 
+    }
+
+    .img-center {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .no-margin {
+        margin: 0 !important;
     }
 }
